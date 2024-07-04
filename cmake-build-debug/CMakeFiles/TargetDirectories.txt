@@ -1,0 +1,3 @@
+C:/Users/micmy/CLionProjects/GIT2/cmake-build-debug/CMakeFiles/GIT2.dir
+C:/Users/micmy/CLionProjects/GIT2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micmy/CLionProjects/GIT2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
